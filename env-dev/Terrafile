@@ -3,7 +3,7 @@ docdb:
     version: "main"              
 
 redis:
-    source:  "https://github.com/b54-clouddevops/tf-module-redis.git"
+    source:  "https://github.com/Devopsnikhil4/tf-module-redis.git"
     version: "main"    
 
 mysql:
